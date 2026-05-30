@@ -1,4 +1,4 @@
-import { encryptOwners } from './utils/DigixCreator.js';
+import { encryptOwners } from './utils/Nemesiscreator.js';
 
 await encryptOwners([
   "237674400851",
